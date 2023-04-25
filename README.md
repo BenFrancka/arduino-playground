@@ -115,4 +115,8 @@ NOTE:  For a more user friendly experience, you can work in the Arduino IDE dire
 
 [Link the Arduino IDE]("https://docs.arduino.cc/software/ide-v2")
 
+# Electrical Engineering Resources
+
+- [Electricity Basics]("https://www.youtube.com/watch?v=mc979OhitAg&list=PLWv9VM947MKjuqlJVp5m_Edf66SrFSHx2") playlist on Youtube from The Engineering Mindset.
+
 

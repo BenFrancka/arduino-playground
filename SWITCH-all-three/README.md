@@ -1,0 +1,1 @@
+![Circuit Diagram](../assets/Switch-all-three.png)
